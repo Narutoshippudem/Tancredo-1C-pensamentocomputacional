@@ -1,7 +1,11 @@
 body {
-    text-align: center
-    background: #000000
+    text-align: center;
+    background: #000000;
 }
 #slogan{
    font-size: 25px
+}
+.capa{
+    width: 80%;
+    height: 58%;
 }
