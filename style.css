@@ -1,7 +1,10 @@
 body {
-    text-align: center;
-    background: #000000;
+    background: #566cb1;
     color: aliceblue;
+}
+main {
+    text-align: center;
+    
 }
 #slogan{
    font-size: 25px
@@ -9,4 +12,7 @@ body {
 .capa{
     width: 80%;
     height: 58%;
+}
+.foto_beneficio{
+     width: 40%;
 }
