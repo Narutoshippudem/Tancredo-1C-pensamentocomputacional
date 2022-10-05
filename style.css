@@ -13,6 +13,13 @@ main {
     width: 80%;
     height: 58%;
 }
+ul{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+
+    
+}
 .foto_beneficio{
      width: 40%;
 }
